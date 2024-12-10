@@ -6,3 +6,5 @@ python-dotenv
 
 advent-of-code-data[nb]
 advent-of-code-data
+
+numpy # let's go!
